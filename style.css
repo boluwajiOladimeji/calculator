@@ -1,0 +1,31 @@
+tr,
+td,
+caption,
+thead,
+tbody,
+table {
+  border: 1px solid #000;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+table {
+  margin: 5rem auto 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 90%;
+  max-width: 500px;
+  border-collapse: collapse;
+}
+
+caption {
+  text-transform: uppercase;
+}
+
+.seen {
+  text-align: right;
+}
+
+th {
+  padding: 0.8rem 0;
+  font-size: 3rem;
+}
